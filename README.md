@@ -14,7 +14,7 @@
   - JavaScript at freeCodeCamp
   - AWS Academy Cloud Security Foundations
 - 📫 How to reach me: **dianagabi.flores@gmail.com**
-- ⚡ Fun fact **I'm currently learning Mexican Sign Language.**
+- ⚡ Fun fact **I'm currently learning Mexican Sign Language**
 - - 📚 I enjoy reading in English
 
 
